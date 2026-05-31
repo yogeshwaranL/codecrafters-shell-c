@@ -10,7 +10,6 @@ int main(int argc, char *argv[])
   // Buffer to hold input command
   char cmd_in[256];
 
-  // TODO: Uncomment the code below to pass the first stage
   printf("$ ");
 
   // Read the user command into cmd_in, it contains newline
